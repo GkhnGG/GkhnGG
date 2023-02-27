@@ -1,5 +1,6 @@
-### Hi there 👋
-
+###  About Me:
+Hello there, I am Gökhan Gülçakır, A freshman IE major at Bilkent University.
+I love to learn new things related to technology, science and apply them in our daily lives.⚡
 <!--
 **GkhnGG/GkhnGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
