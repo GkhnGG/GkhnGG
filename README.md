@@ -1,5 +1,5 @@
 ###  About Me:
-Hello there, I am Gökhan Gülçakır, A freshman IE major at Bilkent University.
+Hello there, I am Gökhan Gülçakır, A sophomore IE major at Bilkent University.
 
 I love to learn new things related to technology, science and apply them in our daily lives.⚡
 
