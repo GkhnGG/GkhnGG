@@ -1,5 +1,5 @@
 ###  About Me:
-Hello there, I am Gökhan Gülçakır, A sophomore IE major at Bilkent University. I am also doing minor in software devolopment.
+Hello there, I am Gökhan Gülçakır, A sophomore IE major at Bilkent University. I am also doing minor in software development.
 
 Currently focusing on mastering on Python topics and learning C language.
 
