@@ -13,6 +13,11 @@ I am currently dedicating my time to mastering Python and learning the C program
 As a sophomore, I am enthusiastic about expanding my knowledge in software development and 
 applying it to real-world problems.
 
+### Connect with me
+-Linkedin:https://www.linkedin.com/in/gokhangulcakir/
+
+-Email:gokhan.gulcakir@gmail.com
+
 
 
 
