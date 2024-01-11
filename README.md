@@ -1,7 +1,7 @@
 ###  About Me:
-Hello there, I am Gökhan Gülçakır, A sophomore IE major at Bilkent University.
+Hello there, I am Gökhan Gülçakır, A sophomore IE major at Bilkent University. I am also doing minor in software devolopment.
+Currently focusing on mastering on Python topics and learning C language.
 
-I love to learn new things related to technology, science and apply them in our daily lives.⚡
 
 <!--
 **GkhnGG/GkhnGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
