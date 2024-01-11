@@ -14,9 +14,10 @@ As a sophomore, I am enthusiastic about expanding my knowledge in software devel
 applying it to real-world problems.
 
 ### Connect with me
--Linkedin:https://www.linkedin.com/in/gokhangulcakir/
+[Linkedin](https://www.linkedin.com/in/gokhangulcakir/)
 
--Email:gokhan.gulcakir@gmail.com
+<sub>[Email](mailto:gokhan.gulcakir@gmail.com)</sub>
+
 
 
 
