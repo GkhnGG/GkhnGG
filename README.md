@@ -5,6 +5,7 @@ a minor in this field.
 
 ### About Me:
 -🎓 Education: B.Sc. in Industrial Engineering at Bilkent University
+
 -📚 Minor: Software Development
 
 ## Current Focus:
