@@ -1,7 +1,18 @@
-###  About Me:
-Hello there, I am Gökhan Gülçakır, A sophomore IE major at Bilkent University. I am also doing minor in software development.
+###  Gökhan Gülçakır's GitHub Repository:
+Hello there! 👋 I'm Gökhan Gülçakır, a sophomore Industrial Engineering major at 
+Bilkent University. I'm passionate about software development and currently pursuing 
+a minor in this field.
 
-Currently focusing on mastering on Python topics and learning C language.
+### About Me:
+-🎓 Education: B.Sc. in Industrial Engineering at Bilkent University
+-📚 Minor: Software Development
+
+## Current Focus:
+I am currently dedicating my time to mastering Python and learning the C programming language. 
+As a sophomore, I am enthusiastic about expanding my knowledge in software development and 
+applying it to real-world problems.
+
+
 
 
 <!--
