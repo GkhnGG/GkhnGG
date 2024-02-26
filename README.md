@@ -9,7 +9,7 @@ a minor in this field.
 -📚 Minor: Software Development
 
 ### Current Focus:
-I am currently dedicating my time to mastering Python and web devolopment. 
+I am currently dedicating my time to mastering Python and web development. 
 As a sophomore, I am enthusiastic about expanding my knowledge in software development and 
 applying it to real-world problems.
 
